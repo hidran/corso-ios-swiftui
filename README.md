@@ -17,3 +17,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 49: List e ForEach](49-list-e-foreach/)
 - [Lezione 52: NavigationStack e NavigationLink](52-navigationstack-e-navigationlink/)
 - [Lezione 53: navigazione programmatica con NavigationPath](53-navigazione-programmatica/)
+- [Lezione 54: sheet, alert e dialog di conferma](54-sheet-alert-e-dialog/)
