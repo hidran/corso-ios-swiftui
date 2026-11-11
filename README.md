@@ -11,5 +11,6 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 42: colori, gradienti, forme e materiali](42-colori-gradienti-forme-e-materiali/)
 - [Lezione 43: Liquid Glass](43-liquid-glass/)
 - [Lezione 44: Button e @State](44-button-e-state/)
+- [Lezione 45: i controlli e il dollaro](45-i-controlli-e-il-binding/)
 - [Lezione 47: comporre view e @Binding](47-comporre-view-e-binding/)
 - [Lezione 48: modificatori e stili personalizzati](48-modificatori-e-stili-personalizzati/)
