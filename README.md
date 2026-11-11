@@ -12,6 +12,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 43: Liquid Glass](43-liquid-glass/)
 - [Lezione 44: Button e @State](44-button-e-state/)
 - [Lezione 45: i controlli e il dollaro](45-i-controlli-e-il-binding/)
+- [Lezione 46: Form e input dell'utente](46-form-e-input-dell-utente/)
 - [Lezione 47: comporre view e @Binding](47-comporre-view-e-binding/)
 - [Lezione 48: modificatori e stili personalizzati](48-modificatori-e-stili-personalizzati/)
 - [Lezione 49: List e ForEach](49-list-e-foreach/)
