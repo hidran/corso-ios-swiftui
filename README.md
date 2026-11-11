@@ -14,3 +14,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 45: i controlli e il dollaro](45-i-controlli-e-il-binding/)
 - [Lezione 47: comporre view e @Binding](47-comporre-view-e-binding/)
 - [Lezione 48: modificatori e stili personalizzati](48-modificatori-e-stili-personalizzati/)
+- [Lezione 49: List e ForEach](49-list-e-foreach/)
