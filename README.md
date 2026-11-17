@@ -5,6 +5,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 
 - [Lezione 3: la prima app in dieci minuti](03-la-prima-app-in-dieci-minuti/)
 - [Lezione 08: perché Swift e come proveremo il codice](08-perche-swift-e-come-proveremo-il-codice/)
+- [Lezione 09: costanti, variabili e tipi](09-costanti-variabili-e-tipi/)
 - [Lezione 38: view, modificatori e l'ordine che conta](38-view-modificatori-e-ordine/)
 - [Lezione 39: VStack, HStack, ZStack, Spacer e padding](39-stack-spacer-e-padding/)
 - [Lezione 40: frame, allineamenti e safe area](40-frame-allineamenti-e-safe-area/)
