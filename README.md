@@ -23,4 +23,5 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 54: sheet, alert e dialog di conferma](54-sheet-alert-e-dialog/)
 - [Lezione 55: TabView](55-tabview/)
 - [Lezione 56: toolbar e ricerca](56-toolbar-e-ricerca/)
+- [Lezione 57: iPad e schermi grandi](57-ipad-e-schermi-grandi/)
 - [Lezione 60: anteprime efficaci](60-anteprime-efficaci/)
