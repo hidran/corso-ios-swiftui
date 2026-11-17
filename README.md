@@ -30,3 +30,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 61: Libreria: il modello e la lista](61-libreria-il-modello-e-la-lista/)
 - [Lezione 62: Libreria: la schermata di dettaglio](62-libreria-la-schermata-di-dettaglio/)
 - [Lezione 63: Libreria: aggiungere e modificare un libro](63-libreria-aggiungere-e-modificare-un-libro/)
+- [Lezione 64: Libreria: ricerca e rifiniture](64-libreria-ricerca-e-rifiniture/)
