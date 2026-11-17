@@ -10,6 +10,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 11: numeri e operatori](11-numeri-e-operatori/)
 - [Lezione 12: array](12-array/)
 - [Lezione 13: set e dizionari](13-set-e-dizionari/)
+- [Lezione 14: tuple](14-tuple/)
 - [Lezione 38: view, modificatori e l'ordine che conta](38-view-modificatori-e-ordine/)
 - [Lezione 39: VStack, HStack, ZStack, Spacer e padding](39-stack-spacer-e-padding/)
 - [Lezione 40: frame, allineamenti e safe area](40-frame-allineamenti-e-safe-area/)
