@@ -8,6 +8,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 09: costanti, variabili e tipi](09-costanti-variabili-e-tipi/)
 - [Lezione 10: stringhe](10-stringhe/)
 - [Lezione 11: numeri e operatori](11-numeri-e-operatori/)
+- [Lezione 12: array](12-array/)
 - [Lezione 38: view, modificatori e l'ordine che conta](38-view-modificatori-e-ordine/)
 - [Lezione 39: VStack, HStack, ZStack, Spacer e padding](39-stack-spacer-e-padding/)
 - [Lezione 40: frame, allineamenti e safe area](40-frame-allineamenti-e-safe-area/)
