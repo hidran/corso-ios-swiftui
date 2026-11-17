@@ -24,4 +24,5 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 55: TabView](55-tabview/)
 - [Lezione 56: toolbar e ricerca](56-toolbar-e-ricerca/)
 - [Lezione 57: iPad e schermi grandi](57-ipad-e-schermi-grandi/)
+- [Lezione 58: Layout adattivi: iPhone ridimensionabile e iPhone Duo](58-layout-adattivi/)
 - [Lezione 60: anteprime efficaci](60-anteprime-efficaci/)
