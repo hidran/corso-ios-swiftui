@@ -27,3 +27,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 58: Layout adattivi: iPhone ridimensionabile e iPhone Duo](58-layout-adattivi/)
 - [Lezione 59: tema scuro, Dynamic Type e accessibilità](59-tema-scuro-dynamic-type-e-accessibilita/)
 - [Lezione 60: anteprime efficaci](60-anteprime-efficaci/)
+- [Lezione 61: Libreria: il modello e la lista](61-libreria-il-modello-e-la-lista/)
