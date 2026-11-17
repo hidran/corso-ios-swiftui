@@ -22,3 +22,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 53: navigazione programmatica con NavigationPath](53-navigazione-programmatica/)
 - [Lezione 54: sheet, alert e dialog di conferma](54-sheet-alert-e-dialog/)
 - [Lezione 55: TabView](55-tabview/)
+- [Lezione 60: anteprime efficaci](60-anteprime-efficaci/)
