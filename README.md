@@ -24,6 +24,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 25: struct](25-struct/)
 - [Lezione 26: proprietà calcolate e osservatori](26-proprieta-calcolate-e-osservatori/)
 - [Lezione 27: enum](27-enum/)
+- [Lezione 28: classi ed ereditarietà](28-classi-ed-ereditarieta/)
 - [Lezione 38: view, modificatori e l'ordine che conta](38-view-modificatori-e-ordine/)
 - [Lezione 39: VStack, HStack, ZStack, Spacer e padding](39-stack-spacer-e-padding/)
 - [Lezione 40: frame, allineamenti e safe area](40-frame-allineamenti-e-safe-area/)
