@@ -18,6 +18,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 19: funzioni](19-funzioni/)
 - [Lezione 20: parametri variadic e inout](20-parametri-variadic-e-inout/)
 - [Lezione 21: guard e uscita anticipata](21-guard-e-uscita-anticipata/)
+- [Lezione 22: closure](22-closure/)
 - [Lezione 38: view, modificatori e l'ordine che conta](38-view-modificatori-e-ordine/)
 - [Lezione 39: VStack, HStack, ZStack, Spacer e padding](39-stack-spacer-e-padding/)
 - [Lezione 40: frame, allineamenti e safe area](40-frame-allineamenti-e-safe-area/)
