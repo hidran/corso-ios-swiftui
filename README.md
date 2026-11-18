@@ -27,6 +27,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 28: classi ed ereditarietà](28-classi-ed-ereditarieta/)
 - [Lezione 29: valore o riferimento: struct contro class](29-valore-o-riferimento-struct-contro-class/)
 - [Lezione 30: protocolli](30-protocolli/)
+- [Lezione 31: extension](31-extension/)
 - [Lezione 38: view, modificatori e l'ordine che conta](38-view-modificatori-e-ordine/)
 - [Lezione 39: VStack, HStack, ZStack, Spacer e padding](39-stack-spacer-e-padding/)
 - [Lezione 40: frame, allineamenti e safe area](40-frame-allineamenti-e-safe-area/)
