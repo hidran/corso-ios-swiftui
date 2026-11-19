@@ -68,3 +68,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 69: serve un view model?](69-serve-un-view-model/)
 - [Lezione 70: @AppStorage e @SceneStorage](70-appstorage-e-scenestorage/)
 - [Lezione 71: Ciclo di vita dell'app](71-ciclo-di-vita-dell-app/)
+- [Lezione 72: Organizzare il progetto](72-organizzare-il-progetto/)
