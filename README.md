@@ -64,3 +64,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 65: una sola fonte di verità](65-una-sola-fonte-di-verita/)
 - [Lezione 66: @Observable](66-observable/)
 - [Lezione 67: @Bindable ed @Environment](67-bindable-ed-environment/)
+- [Lezione 68: valori d'ambiente personalizzati](68-valori-d-ambiente-personalizzati/)
