@@ -72,3 +72,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 73: Abitudini: il modello osservabile e la lista](73-abitudini-il-modello-osservabile-e-la-lista/)
 - [Lezione 74: Abitudini: completare, aggiungere, riepilogo del giorno](74-abitudini-completare-aggiungere-riepilogo/)
 - [Lezione 75: async/await: aspettare senza bloccare](75-async-await-aspettare-senza-bloccare/)
+- [Lezione 76: Task, .task e cancellazione](76-task-task-e-cancellazione/)
