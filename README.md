@@ -74,3 +74,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 75: async/await: aspettare senza bloccare](75-async-await-aspettare-senza-bloccare/)
 - [Lezione 76: Task, .task e cancellazione](76-task-task-e-cancellazione/)
 - [Lezione 78: Lavori in parallelo](78-lavori-in-parallelo/)
+- [Lezione 81: URLSession con async/await](81-urlsession-con-async-await/)
