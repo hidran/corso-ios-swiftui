@@ -63,3 +63,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 64: Libreria: ricerca e rifiniture](64-libreria-ricerca-e-rifiniture/)
 - [Lezione 65: una sola fonte di verità](65-una-sola-fonte-di-verita/)
 - [Lezione 66: @Observable](66-observable/)
+- [Lezione 67: @Bindable ed @Environment](67-bindable-ed-environment/)
