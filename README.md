@@ -69,3 +69,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 70: @AppStorage e @SceneStorage](70-appstorage-e-scenestorage/)
 - [Lezione 71: Ciclo di vita dell'app](71-ciclo-di-vita-dell-app/)
 - [Lezione 72: Organizzare il progetto](72-organizzare-il-progetto/)
+- [Lezione 73: Abitudini: il modello osservabile e la lista](73-abitudini-il-modello-osservabile-e-la-lista/)
