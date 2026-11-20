@@ -78,5 +78,6 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 79: Actor e Sendable in parole semplici](79-actor-e-sendable-in-parole-semplici/)
 - [Lezione 80: Codable: da JSON a struct](80-codable-da-json-a-struct/)
 - [Lezione 81: URLSession con async/await](81-urlsession-con-async-await/)
+- [Lezione 82: Stati di caricamento ed errori](82-stati-di-caricamento-ed-errori/)
 - [Lezione 83: AsyncImage e cache](83-asyncimage-e-cache/)
 - [Lezione 84: Inviare dati: POST, PUT e DELETE](84-inviare-dati-post-put-e-delete/)
