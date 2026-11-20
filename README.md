@@ -81,3 +81,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 82: Stati di caricamento ed errori](82-stati-di-caricamento-ed-errori/)
 - [Lezione 83: AsyncImage e cache](83-asyncimage-e-cache/)
 - [Lezione 84: Inviare dati: POST, PUT e DELETE](84-inviare-dati-post-put-e-delete/)
+- [Lezione 85: Aggiornare e paginare](85-aggiornare-e-paginare/)
