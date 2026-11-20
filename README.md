@@ -73,6 +73,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 74: Abitudini: completare, aggiungere, riepilogo del giorno](74-abitudini-completare-aggiungere-riepilogo/)
 - [Lezione 75: async/await: aspettare senza bloccare](75-async-await-aspettare-senza-bloccare/)
 - [Lezione 76: Task, .task e cancellazione](76-task-task-e-cancellazione/)
+- [Lezione 77: MainActor e isolamento predefinito](77-mainactor-e-isolamento-predefinito/)
 - [Lezione 78: Lavori in parallelo](78-lavori-in-parallelo/)
 - [Lezione 80: Codable: da JSON a struct](80-codable-da-json-a-struct/)
 - [Lezione 81: URLSession con async/await](81-urlsession-con-async-await/)
