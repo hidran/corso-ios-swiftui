@@ -82,3 +82,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 83: AsyncImage e cache](83-asyncimage-e-cache/)
 - [Lezione 84: Inviare dati: POST, PUT e DELETE](84-inviare-dati-post-put-e-delete/)
 - [Lezione 85: Aggiornare e paginare](85-aggiornare-e-paginare/)
+- [Lezione 86: Ricerca che non martella il server](86-ricerca-che-non-martella-il-server/)
