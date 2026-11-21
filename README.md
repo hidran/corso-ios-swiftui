@@ -7,6 +7,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 08: perché Swift e come proveremo il codice](08-perche-swift-e-come-proveremo-il-codice/)
 - [Lezione 09: costanti, variabili e tipi](09-costanti-variabili-e-tipi/)
 - [Lezione 10: stringhe](10-stringhe/)
+- [Lezione 100: Keychain per i dati sensibili](100-keychain-per-i-dati-sensibili/)
 - [Lezione 11: numeri e operatori](11-numeri-e-operatori/)
 - [Lezione 12: array](12-array/)
 - [Lezione 13: set e dizionari](13-set-e-dizionari/)
