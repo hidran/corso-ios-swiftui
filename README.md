@@ -85,3 +85,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 86: Ricerca che non martella il server](86-ricerca-che-non-martella-il-server/)
 - [Lezione 87: Pokédex: la lista dall’API](87-pokedex-la-lista-dall-api/)
 - [Lezione 88: Pokédex: dettaglio e immagini](88-pokedex-dettaglio-e-immagini/)
+- [Lezione 89: Pokédex: ricerca e paginazione](89-pokedex-ricerca-e-paginazione/)
