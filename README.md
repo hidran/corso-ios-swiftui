@@ -86,3 +86,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 87: Pokédex: la lista dall’API](87-pokedex-la-lista-dall-api/)
 - [Lezione 88: Pokédex: dettaglio e immagini](88-pokedex-dettaglio-e-immagini/)
 - [Lezione 89: Pokédex: ricerca e paginazione](89-pokedex-ricerca-e-paginazione/)
+- [Lezione 90: Pokédex: funzionare senza rete](90-pokedex-funzionare-senza-rete/)
