@@ -88,3 +88,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 89: Pokédex: ricerca e paginazione](89-pokedex-ricerca-e-paginazione/)
 - [Lezione 90: Pokédex: funzionare senza rete](90-pokedex-funzionare-senza-rete/)
 - [Lezione 92: File con FileManager e Codable](92-file-con-filemanager-e-codable/)
+- [Lezione 93: SwiftData: @Model e ModelContainer](93-swiftdata-model-e-modelcontainer/)
