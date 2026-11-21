@@ -92,3 +92,4 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 94: @Query: leggere, ordinare, filtrare](94-query-leggere-ordinare-filtrare/)
 - [Lezione 95: Creare, modificare, eliminare](95-creare-modificare-eliminare/)
 - [Lezione 96: Relazioni tra modelli](96-relazioni-tra-modelli/)
+- [Lezione 97: Anteprime con dati di esempio](97-anteprime-con-dati-di-esempio/)
