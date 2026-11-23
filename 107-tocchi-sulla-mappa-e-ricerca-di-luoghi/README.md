@@ -8,7 +8,7 @@ Una mappa che risponde: toccate un punto per sapere l'indirizzo, poi cercate le 
 
 - `MapReader` e `onTapGesture`: `proxy.convert(point, from: .local)` trasforma il tocco in una coordinata
 - `MKReverseGeocodingRequest` (iOS 26): dalla coordinata ai `mapItems`, e da lì `address?.shortAddress`
-- `MKLocalSearch` con `naturalLanguageQuery` e una `region` attorno al punto toccato
+- `MKLocalSearch` con `naturalLanguageQuery`, una `region` attorno al punto toccato e `regionPriority = .required`, che tiene i risultati dentro la zona
 - `Marker(item:)` per mostrare i risultati della ricerca
 - Indirizzi e risultati arrivano dai servizi di Apple: serve la rete, non servono chiavi né account
 

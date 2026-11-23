@@ -70,6 +70,7 @@ struct ContentView: View {
             latitudinalMeters: 800,
             longitudinalMeters: 800
         )
+        request.regionPriority = .required
         let search = MKLocalSearch(request: request)
         let response = try? await search.start()
         shops = response?.mapItems ?? []
