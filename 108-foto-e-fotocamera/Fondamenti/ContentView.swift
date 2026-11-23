@@ -13,7 +13,7 @@ struct ContentView: View {
     @State private var photo: Data?
 
     var hasCamera: Bool {
-        UIImagePickerController.isSourceTypeAvailable(.camera)
+        UIImagePickerController.isCameraDeviceAvailable(.rear)
     }
 
     var body: some View {

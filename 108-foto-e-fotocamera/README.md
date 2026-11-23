@@ -10,7 +10,7 @@ Una schermata che fa scegliere una foto dalla libreria e la mostra, senza chiede
 - `PhotosPickerItem`: un segnaposto, i dati si caricano con `loadTransferable(type: Data.self)`
 - `.task(id: selection)`: il caricamento riparte quando la scelta cambia
 - `UIImage(data:)` e `Image(uiImage:)` per mostrare la foto
-- `UIImagePickerController.isSourceTypeAvailable(.camera)`: nel simulatore la fotocamera non c'è
+- `UIImagePickerController.isCameraDeviceAvailable(.rear)`: nel simulatore la fotocamera posteriore non c'è
 - Per aggiungere foto al simulatore: `xcrun simctl addmedia booted foto.jpg`, oppure trascinate un'immagine sulla finestra del simulatore
 
 ## Come aprirlo
