@@ -12,6 +12,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 102: Spese 2: elenco per mese e filtri](102-spese-2-elenco-per-mese-e-filtri/)
 - [Lezione 103: Spese 3: i grafici](103-spese-3-i-grafici/)
 - [Lezione 104: Permessi e privacy](104-permessi-e-privacy/)
+- [Lezione 105: Mappe in SwiftUI](105-mappe-in-swiftui/)
 - [Lezione 11: numeri e operatori](11-numeri-e-operatori/)
 - [Lezione 12: array](12-array/)
 - [Lezione 13: set e dizionari](13-set-e-dizionari/)
