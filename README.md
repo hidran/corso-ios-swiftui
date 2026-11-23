@@ -18,6 +18,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 108: Foto e fotocamera](108-foto-e-fotocamera/)
 - [Lezione 109: Notifiche locali](109-notifiche-locali/)
 - [Lezione 11: numeri e operatori](11-numeri-e-operatori/)
+- [Lezione 110: Grafici con Swift Charts](110-grafici-con-swift-charts/)
 - [Lezione 12: array](12-array/)
 - [Lezione 13: set e dizionari](13-set-e-dizionari/)
 - [Lezione 14: tuple](14-tuple/)
