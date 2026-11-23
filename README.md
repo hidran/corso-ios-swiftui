@@ -16,6 +16,7 @@ e fate doppio clic sul file con estensione xcodeproj.
 - [Lezione 106: La posizione dell'utente](106-la-posizione-dell-utente/)
 - [Lezione 107: Tocchi sulla mappa e ricerca di luoghi](107-tocchi-sulla-mappa-e-ricerca-di-luoghi/)
 - [Lezione 108: Foto e fotocamera](108-foto-e-fotocamera/)
+- [Lezione 109: Notifiche locali](109-notifiche-locali/)
 - [Lezione 11: numeri e operatori](11-numeri-e-operatori/)
 - [Lezione 12: array](12-array/)
 - [Lezione 13: set e dizionari](13-set-e-dizionari/)
